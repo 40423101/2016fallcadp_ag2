@@ -1263,16 +1263,16 @@ Diff...
 </t>
 <t tx="leo.20161020163803.2">#組員作業
 
-###[40423101](https://40423101.github.io/2016fallcadp_hw/)
+###40423101    [簡報](https://40423101.github.io/2016fallcadp_hw/)    [網誌](https://40423101.github.io/2016fallcadp_hw/blog)
 
-###[40423103](https://40423103.github.io/2016fallcadp_hw/)
+###40423103    [簡報](https://40423103.github.io/2016fallcadp_hw/)    [網誌](https://40423103.github.io/2016fallcadp_hw/blog)
 
-###[40423104](https://40423104.github.io/2016fallcadp_hw/)
+###40423104    [簡報](https://40423104.github.io/2016fallcadp_hw/)    [網誌](https://40423104.github.io/2016fallcadp_hw/blog)
 
-###[40423117](https://40423117.github.io/2016fallcadp_hw/)
+###40423117    [簡報](https://40423117.github.io/2016fallcadp_hw/)    [網誌](https://40423117.github.io/2016fallcadp_hw/blog)
 
-###[40423136](https://40423136.github.io/2016fallcadp_hw/)
+###40423136    [簡報](https://40423136.github.io/2016fallcadp_hw/)    [網誌](https://40423136.github.io/2016fallcadp_hw/blog)
 
-###[40423144](https://40423144.github.io/2016fallcadp_hw/)</t>
+###40423144    [簡報](https://40423144.github.io/2016fallcadp_hw/)    [網誌](https://40423144.github.io/2016fallcadp_hw/blog)</t>
 </tnodes>
 </leo_file>
