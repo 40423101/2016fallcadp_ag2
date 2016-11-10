@@ -31,6 +31,95 @@
 <v t="leo.20161020163803.1" a="E"><vh>組員</vh>
 <v t="leo.20161020163803.2"><vh>組員</vh></v>
 </v>
+<v t="leo.20161110063640.1"><vh>onshape w1-1</vh>
+<v t="leo.20161110071253.1" a="E"><vh>w1-1</vh>
+<v t="leo.20161110071253.2"><vh>1</vh></v>
+</v>
+<v t="leo.20161110062148.1" a="E"><vh>week1</vh>
+<v t="leo.20161110062148.2"><vh>1-After</vh></v>
+</v>
+<v t="leo.20161110070520.1" a="E"><vh>1-p1</vh>
+<v t="leo.20161110070520.2"><vh>1-part1 影片</vh></v>
+</v>
+<v t="leo.20161110071019.1" a="E"><vh>1-p2</vh>
+<v t="leo.20161110071019.2"><vh>1-part2 影片</vh></v>
+</v>
+<v t="leo.20161110071033.1" a="E"><vh>1-p3</vh>
+<v t="leo.20161110071033.2"><vh>1-part3 影片</vh></v>
+</v>
+</v>
+<v t="leo.20161110072319.1"><vh>onshape w1-2</vh>
+<v t="leo.20161110072319.2" a="E"><vh>w1-2</vh>
+<v t="leo.20161110072319.3"><vh>2</vh></v>
+</v>
+<v t="leo.20161110072319.4" a="E"><vh>week1-2</vh>
+<v t="leo.20161110072319.5"><vh>2</vh></v>
+</v>
+<v t="leo.20161110072319.6" a="E"><vh>2-p1</vh>
+<v t="leo.20161110072319.7"><vh>2-part1 影片</vh></v>
+</v>
+<v t="leo.20161110072319.8" a="E"><vh>2-p2</vh>
+<v t="leo.20161110072319.9"><vh>2-part2 影片</vh></v>
+</v>
+<v t="leo.20161110072319.10" a="E"><vh>2-p3</vh>
+<v t="leo.20161110072319.11"><vh>2-part3 影片</vh></v>
+</v>
+<v t="leo.20161110073507.1" a="E"><vh>2-p4</vh>
+<v t="leo.20161110073507.2"><vh>2-part4 影片</vh></v>
+</v>
+<v t="leo.20161110073513.1" a="E"><vh>2-p5</vh>
+<v t="leo.20161110073513.2"><vh>2-part5 影片</vh></v>
+</v>
+<v t="leo.20161110073518.1" a="E"><vh>2-p6</vh>
+<v t="leo.20161110073518.2"><vh>2-part6 影片</vh></v>
+</v>
+</v>
+<v t="leo.20161110074751.1"><vh>onshape w2</vh>
+<v t="leo.20161110074751.2" a="E"><vh>w2</vh>
+<v t="leo.20161110074751.3"><vh>1</vh></v>
+</v>
+<v t="leo.20161110074751.4" a="E"><vh>week2</vh>
+<v t="leo.20161110074751.5"><vh>2</vh></v>
+</v>
+<v t="leo.20161110074751.6" a="E"><vh>2-p1</vh>
+<v t="leo.20161110074751.7"><vh>2-part1 影片</vh></v>
+</v>
+<v t="leo.20161110074751.8" a="E"><vh>2-p2</vh>
+<v t="leo.20161110074751.9"><vh>2-part2 影片</vh></v>
+</v>
+<v t="leo.20161110074751.10" a="E"><vh>2-p3</vh>
+<v t="leo.20161110074751.11"><vh>2-part3 影片</vh></v>
+</v>
+<v t="leo.20161110074751.12" a="E"><vh>2-p4</vh>
+<v t="leo.20161110074751.13"><vh>2-part4 影片</vh></v>
+</v>
+<v t="leo.20161110074751.14" a="E"><vh>2-p5</vh>
+<v t="leo.20161110074751.15"><vh>2-part5 影片</vh></v>
+</v>
+</v>
+<v t="leo.20161110080738.1"><vh>onshape w3</vh>
+<v t="leo.20161110080738.2" a="E"><vh>w3</vh>
+<v t="leo.20161110080738.3"><vh>3</vh></v>
+</v>
+<v t="leo.20161110080738.4" a="E"><vh>week3</vh>
+<v t="leo.20161110080738.5"><vh>3</vh></v>
+</v>
+<v t="leo.20161110080738.6" a="E"><vh>3-p1</vh>
+<v t="leo.20161110080738.7"><vh>3-part1 影片</vh></v>
+</v>
+<v t="leo.20161110080738.8" a="E"><vh>3-p2-a</vh>
+<v t="leo.20161110080738.9"><vh>3-part2-a 影片</vh></v>
+</v>
+<v t="leo.20161110080738.10" a="E"><vh>3-p2-b</vh>
+<v t="leo.20161110080738.11"><vh>3-part2-b 影片</vh></v>
+</v>
+<v t="leo.20161110080738.12" a="E"><vh>3-p2-c</vh>
+<v t="leo.20161110080738.13"><vh>3-part2-c 影片</vh></v>
+</v>
+<v t="leo.20161110080738.14" a="E"><vh>3-p2-d</vh>
+<v t="leo.20161110080738.15"><vh>3-part2-d 影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -1274,5 +1363,259 @@ Diff...
 ###40423136    [簡報](https://40423136.github.io/2016fallcadp_hw/)    [網誌](https://40423136.github.io/2016fallcadp_hw/blog)
 
 ###40423144    [簡報](https://40423144.github.io/2016fallcadp_hw/)    [網誌](https://40423144.github.io/2016fallcadp_hw/blog)</t>
+<t tx="leo.20161110062148.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110062148.2">&lt;img src="http://i.imgur.com/r0oM08f.png"&gt;</t>
+<t tx="leo.20161110063640.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161110070520.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110070520.2">##1-Part1
+
+&lt;iframe src="https://player.vimeo.com/video/190889663" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110071019.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110071019.2">##1-Part2
+
+&lt;iframe src="https://player.vimeo.com/video/190889967" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110071033.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110071033.2">##1-Part3
+
+&lt;iframe src="https://player.vimeo.com/video/190890160" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110071253.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110071253.2">##Onshape College Curriculum
+
+#Week01 Homework
+
+#1
+</t>
+<t tx="leo.20161110072319.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161110072319.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110072319.11">##2-Part3
+
+&lt;iframe src="https://player.vimeo.com/video/190899023" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110072319.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110072319.3">##Onshape College Curriculum
+
+#Week01 Homework
+
+#2
+</t>
+<t tx="leo.20161110072319.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110072319.5">&lt;img src="http://i.imgur.com/aRiswjR.png" /&gt;</t>
+<t tx="leo.20161110072319.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110072319.7">##2-Part1
+
+&lt;iframe src="https://player.vimeo.com/video/190890679" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110072319.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110072319.9">##2-Part2
+
+&lt;iframe src="https://player.vimeo.com/video/190895050" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110073507.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110073507.2">##2-Part4
+
+&lt;iframe src="https://player.vimeo.com/video/190895285" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;</t>
+<t tx="leo.20161110073513.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110073513.2">##2-Part5
+
+&lt;iframe src="https://player.vimeo.com/video/190893952" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110073518.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110073518.2">##2-Part6
+
+&lt;iframe src="https://player.vimeo.com/video/190893201" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110074751.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161110074751.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110074751.11">##Exercise#3
+
+&lt;iframe src="https://player.vimeo.com/video/190932907" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110074751.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110074751.13">##Exercise#4
+
+</t>
+<t tx="leo.20161110074751.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110074751.15">##Exercise#5
+</t>
+<t tx="leo.20161110074751.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110074751.3">##Onshape College Curriculum
+
+#Week02 Homework
+</t>
+<t tx="leo.20161110074751.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110074751.5">&lt;img src="http://i.imgur.com/2xRCwot.png" /&gt;</t>
+<t tx="leo.20161110074751.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110074751.7">##Exercise#1
+
+&lt;iframe src="https://player.vimeo.com/video/190911807" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110074751.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110074751.9">##Exercise#2
+
+&lt;iframe src="https://player.vimeo.com/video/190927575" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110080738.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161110080738.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110080738.11">##2-b
+
+</t>
+<t tx="leo.20161110080738.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110080738.13">##2-c
+
+&lt;iframe src="https://player.vimeo.com/video/190891659" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110080738.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110080738.15">##2-d
+
+&lt;iframe src="https://player.vimeo.com/video/190890782" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110080738.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110080738.3">##Onshape College Curriculum
+
+#Week03 Homework
+</t>
+<t tx="leo.20161110080738.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110080738.5">&lt;img src="http://i.imgur.com/DAZlKoB.png"&gt;</t>
+<t tx="leo.20161110080738.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110080738.7">##1
+
+&lt;iframe src="https://player.vimeo.com/video/190911366" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161110080738.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161110080738.9">##2-a
+
+&lt;iframe src="https://player.vimeo.com/video/190911395" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
