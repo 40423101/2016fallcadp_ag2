@@ -25,10 +25,10 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
+<v t="amd.20161004095719.1"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161020163803.1" a="E"><vh>組員</vh>
+<v t="leo.20161020163803.1"><vh>組員</vh>
 <v t="leo.20161020163803.2"><vh>組員</vh></v>
 </v>
 <v t="leo.20161110063640.1"><vh>onshape w1-1</vh>
@@ -120,7 +120,7 @@
 <v t="leo.20161110080738.15"><vh>3-part2-d 影片</vh></v>
 </v>
 </v>
-<v t="leo.20161208145443.1" a="E"><vh>onshape w4</vh>
+<v t="leo.20161208145443.1"><vh>onshape w4</vh>
 <v t="leo.20161208145443.2" a="E"><vh>w4</vh>
 <v t="leo.20161208145443.3"><vh>4</vh></v>
 </v>
@@ -136,7 +136,7 @@
 <v t="leo.20161208145658.5"><vh>5影片</vh></v>
 </v>
 </v>
-<v t="leo.20161208145813.1" a="E"><vh>onshape w6</vh>
+<v t="leo.20161208145813.1"><vh>onshape w6</vh>
 <v t="leo.20161208145813.2" a="E"><vh>w6</vh>
 <v t="leo.20161208145813.3"><vh>6</vh></v>
 </v>
@@ -162,9 +162,27 @@
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
-<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
-<v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="amd.20160106093454.1" a="E"><vh>網誌文章</vh>
+<v t="amd.20160727114506.1"><vh>組員名單</vh>
+<v t="amd.20160727120222.1"><vh>@edit memberlist.md</vh></v>
+</v>
+<v t="leo.20161208150151.1"><vh>onshapeW1</vh>
+<v t="leo.20161208150151.2"><vh>@edit onshapeW1.md</vh></v>
+</v>
+<v t="leo.20161208170546.1" a="E"><vh>onshapeW2</vh>
+<v t="leo.20161208170546.2"><vh>@edit onshapeW2.md</vh></v>
+</v>
+<v t="leo.20161208171509.1"><vh>onshapeW3</vh>
+<v t="leo.20161208171509.2"><vh>@edit onshapeW3.md</vh></v>
+</v>
+<v t="leo.20161208173949.1"><vh>onshapeW4</vh>
+<v t="leo.20161208173949.2"><vh>@edit onshapeW4.md</vh></v>
+</v>
+<v t="leo.20161208173951.1"><vh>onshapeW5</vh>
+<v t="leo.20161208173951.2"><vh>@edit onshapeW5.md</vh></v>
+</v>
+<v t="leo.20161208174011.1"><vh>onshapeW6</vh>
+<v t="leo.20161208174011.2"><vh>@edit onshapeW6.md</vh></v>
 </v>
 </v>
 </v>
@@ -174,7 +192,7 @@
 </v>
 </v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
-<v t="leo.20161020163616.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161020163616.2"><vh>Recovered Nodes</vh>
 <v t="leo.20161020163616.3"><vh>Recovered node "head" from @clean index.html</vh>
 <v t="leo.20161020163616.4"><vh>old:head</vh></v>
 <v t="leo.20161020163616.5"><vh>new:head</vh></v>
@@ -1532,7 +1550,7 @@ Diff...
 </t>
 <t tx="leo.20161110074751.13">##Exercise#4
 
-</t>
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/Pb3rIm0Qs0s" width="1024" height="576" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20161110074751.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1540,7 +1558,8 @@ Diff...
 &lt;/section&gt;
 </t>
 <t tx="leo.20161110074751.15">##Exercise#5
-</t>
+
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/SZcvWfRfxlU" width="1024" height="576" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20161110074751.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1707,5 +1726,11 @@ Diff...
 <t tx="leo.20161208145813.5">##W6
 
 &lt;iframe src="https://player.vimeo.com/video/194388063" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161208150151.1"></t>
+<t tx="leo.20161208170546.1"></t>
+<t tx="leo.20161208171509.1"></t>
+<t tx="leo.20161208173949.1"></t>
+<t tx="leo.20161208173951.1"></t>
+<t tx="leo.20161208174011.1"></t>
 </tnodes>
 </leo_file>
