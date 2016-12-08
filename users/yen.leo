@@ -120,6 +120,30 @@
 <v t="leo.20161110080738.15"><vh>3-part2-d 影片</vh></v>
 </v>
 </v>
+<v t="leo.20161208145443.1" a="E"><vh>onshape w4</vh>
+<v t="leo.20161208145443.2" a="E"><vh>w4</vh>
+<v t="leo.20161208145443.3"><vh>4</vh></v>
+</v>
+<v t="leo.20161208145443.14" a="E"><vh>4</vh>
+<v t="leo.20161208145443.15"><vh>4影片</vh></v>
+</v>
+</v>
+<v t="leo.20161208145658.1"><vh>onshape w5</vh>
+<v t="leo.20161208145658.2" a="E"><vh>w5</vh>
+<v t="leo.20161208145658.3"><vh>5</vh></v>
+</v>
+<v t="leo.20161208145658.4" a="E"><vh>5</vh>
+<v t="leo.20161208145658.5"><vh>5影片</vh></v>
+</v>
+</v>
+<v t="leo.20161208145813.1" a="E"><vh>onshape w6</vh>
+<v t="leo.20161208145813.2" a="E"><vh>w6</vh>
+<v t="leo.20161208145813.3"><vh>6</vh></v>
+</v>
+<v t="leo.20161208145813.4" a="E"><vh>6</vh>
+<v t="leo.20161208145813.5"><vh>6影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -1617,5 +1641,71 @@ Diff...
 <t tx="leo.20161110080738.9">##2-a
 
 &lt;iframe src="https://player.vimeo.com/video/190911395" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161208145443.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161208145443.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208145443.15">##W4
+
+&lt;iframe src="https://player.vimeo.com/video/194387967" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20161208145443.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208145443.3">##Onshape College Curriculum
+
+#Week04 Homework
+</t>
+<t tx="leo.20161208145658.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161208145658.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208145658.3">##Onshape College Curriculum
+
+#Week05 Homework
+</t>
+<t tx="leo.20161208145658.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208145658.5">##W5
+
+</t>
+<t tx="leo.20161208145813.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20161208145813.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208145813.3">##Onshape College Curriculum
+
+#Week06 Homework
+</t>
+<t tx="leo.20161208145813.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161208145813.5">##W6
+
+&lt;iframe src="https://player.vimeo.com/video/194388063" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
